@@ -50,3 +50,8 @@ npx json-server --watch db.json --port 3000
 Start the React development server:
 
 npm start
+
+## Screenshot of the website
+
+https://github.com/Krishna6452/Profile-Management-Application/
+
