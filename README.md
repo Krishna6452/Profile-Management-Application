@@ -40,7 +40,6 @@ cd profile-management-app
 Run the following command to install all required packages:
 
 npm install
-# or
 yarn install
 
 ## 4. Start the Mock API Server
